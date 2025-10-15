@@ -1,3 +1,2 @@
 Autor: Małgorzata Słaboń
-Kurs: DevOps
-Kurs: DevOps
+Kurs: Technologie DevOps
